@@ -1,0 +1,4 @@
+class Product{
+       int pid=101;
+       String pname="laptop";
+}
