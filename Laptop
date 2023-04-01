@@ -1,0 +1,6 @@
+class Laptop{
+    int lid=101;
+    String lname="lenovo";
+    double price=34000.00;
+
+}
