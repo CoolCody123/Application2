@@ -2,5 +2,12 @@ class Laptop{
     int lid=101;
     String lname="lenovo";
     double price=34000.00;
+    String imeiNum="abc123";
+    /*
+    added by manoranjan(SDE)
+   */
+    public void getImeiNum(imeiNum){
+        System.out.println(imeiNum); 
+   }
 
 }
